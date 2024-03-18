@@ -61,7 +61,7 @@ if __name__ == "__main__":
 # Footer or any additional information
 with st.expander("ℹ️ - About this App"):
     st.markdown("""
-    WikiBot enables seamless interaction with Wikipedia through chatbots powered by the LYZR SDK. Effortlessly explore topics, utilize pre-defined prompts for summaries, and pose inquiries directly within your browser. For inquiries or assistance, reach out to Lyzr.
+   QueryGenius is an intuitive web application that effortlessly converts natural language descriptions into SQL queries, streamlining the querying process and eliminating manual construction.
     """)
     
     st.link_button("Lyzr", url='https://www.lyzr.ai/', use_container_width=True)
